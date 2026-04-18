@@ -1,0 +1,27 @@
+Version 1.6.0
+- added exportable extended Telemetry Data
+- renamed "Wall" and "T-bone" to "head-on" and "Side impact" respectively
+- fixed pulse graph
+- renamed "Custom" to "Custom Grip"
+- added thank you message to the installer
+
+Version 1.7.0
+- renamed "grip / friction presets" to "friction presets"
+- added visible values to all presets
+- renamed "custom grip" to "custom μ" for clarity
+- added more severity levels to the telemetry
+- made the severity levels more realistic
+- added mass options
+- added simulation saving/loading
+- added velocity graph
+- added exportable CSV file
+- added exportable XLSX file
+- sorted sections into tabs
+- added folders within 'exports' folder for different types of exports
+- added file dialog for telemetry data export
+- bolded section titles
+- updated README.txt
+- added info tab
+- cleaned up code+comments
+- added togglable simulation history
+- made physics calculations more realistic
