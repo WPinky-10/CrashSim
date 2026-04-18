@@ -99,22 +99,6 @@ python --version
 
 ---
 
-## License
-
-### You are allowed to:
-
-* Use the code for personal or commercial use
-* Modify the code for learning or personal projects
-* Share the project with proper credit to the original author (William van den Hout)
-
-### You are not allowed to:
-
-* Sell this project or any part of it
-* Modify the code and resell it
-* Remove or hide the author's credit
-
----
-
 ## Author
 
 Created by: William van den Hout
