@@ -667,20 +667,6 @@ tk.Label(info_tab.scrollable_frame, text=
 (Some may already be installed depending on system)
 """, justify="left", wraplength=200).pack(anchor="w")
 
-tk.Label(info_tab.scrollable_frame, text="License", font=("Arial", 9, "bold")).pack(anchor="w")
-tk.Label(info_tab.scrollable_frame, text=
-"""
-You are allowed to:
-- Use the code for personal or commercial use
-- Modify the code for learning or personal projects
-- Share the project only with proper credit to the original author (William van den Hout)
-
-You are not allowed to:
-- Sell this project or any part of it
-- Modify the code and resell it
-- Remove or hide the author's credit
-""", justify="left", wraplength=200).pack(anchor="w")
-
 tk.Label(info_tab.scrollable_frame, text="Note", font=("Arial", 9, "bold")).pack(anchor="w")
 tk.Label(info_tab.scrollable_frame, text=
 """This project is still in development and may contain bugs or unfinished features.
